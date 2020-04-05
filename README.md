@@ -1,1 +1,3 @@
 Repository created to study Python's "Request" package.
+
+github_user_api.py: simple Python package to extract information from github API (https://api.github.com/user) and print to the console the number of public repositories you have, the number of private repositories you own and the description for each public repository you have. User has to sign in using username and password and I used Python's getpass as so as the password is not echoed to the screen. Basic authentication for Github API will be deprecated soon (https://api.github.com/user) and the code will have to be updated to work properly, but this is not a concern for me now since I am using this repository for practice only.
