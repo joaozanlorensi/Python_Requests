@@ -1,1 +1,1 @@
-# Repository to study Python's "Request" package.
+Repository created to study Python's "Request" package.
